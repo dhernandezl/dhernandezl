@@ -5,7 +5,8 @@ Hello! I'm Daniel, a systems engineer dedicated to software development with a p
  
 ## Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhernandezl2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-hernandez-lozano-74a699197) <!--[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/121)--> [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dan_hernandezlo) <!--[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@1212) -->
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/your_server_invite)
+[![Discord](https://img.shields.io/badge/dhernandezl9746-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/dhernandezl9746)
+
 
 ## Statistics
 
