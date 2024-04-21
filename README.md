@@ -41,3 +41,7 @@
 
 -->  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+##Scientific Articles
+As an advocate for scientific knowledge and research, I've contributed to various academic projects and published articles in conferences and scientific journals. Here are some of my notable works:
+
